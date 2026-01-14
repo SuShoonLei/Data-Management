@@ -1,0 +1,55 @@
+{
+  "tickets": [
+    {
+      "index": 1,
+      "request": "register",
+      "information": {
+        "type": "member",
+        "name": "Harold Scotch",
+        "email": "harold.scotch@smail.com",
+        "phone": "445-234-2342"
+      }
+    },
+    {
+      "index": 2,
+      "request": "unregister",
+      "information": {
+        "name": "Christopher Adams",
+        "account": "012345678"
+      }
+    },
+    {
+      "index": 3,
+      "request": "unregister",
+      "information": {
+        "name": "James Dunkin",
+        "account": "567890123"
+      }
+    },
+    {
+      "index": 4,
+      "request": "add",
+      "information": {
+        "title": "Learning Scratch",
+        "category": "Technology",
+        "author": "Rachel Banker"
+      }
+    },
+    {
+      "index": 5,
+      "request": "delete",
+      "information": {
+        "title": "Daily News",
+        "id": "MAG-67812"
+      }
+    },
+    {
+      "index": 6,
+      "request": "delete",
+      "information": {
+        "title": "Star Battle",
+        "id": "FIC-45678"
+      }
+    }
+  ]
+}

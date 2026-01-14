@@ -1,0 +1,309 @@
+{
+  "users": [
+    {
+      "name": "Christopher Adams",
+      "account": "012345678",
+      "email": "christopher.adams@abc.com",
+      "phone": "345-678-9012",
+      "borrowedBooks": [
+        {
+          "title": "Tech Trends",
+          "id": "TEC-67890"
+        }
+      ]
+    },
+    {
+      "name": "Alice Brown",
+      "account": "567890123",
+      "email": "alice.brown@abc.com",
+      "phone": "789-012-3456",
+      "borrowedBooks": []
+    },
+    {
+      "name": "Stylin Einthoven",
+      "account": "123456790",
+      "email": "stylin.einthoven@abc.com",
+      "phone": "890-123-4567",
+      "borrowedBooks": []
+    },
+    {
+      "name": "Emma Green",
+      "account": "890123456",
+      "email": "emma.green@smail.com",
+      "phone": "567-890-1234",
+      "borrowedBooks": [
+        {
+          "title": "Future Innovations",
+          "id": "TEC-23456"
+        },
+        {
+          "title": "Great Biographies",
+          "id": "BIO-67890"
+        }
+      ]
+    },
+    {
+      "name": "Helen Green",
+      "account": "901234567",
+      "email": "helen.green@smail.com",
+      "phone": "890-123-4567",
+      "borrowedBooks": [
+        {
+          "title": "Economic Theories",
+          "id": "EDU-67890"
+        }
+      ]
+    },
+    {
+      "name": "George Harris",
+      "account": "678901234",
+      "email": "george.harris@abc.com",
+      "phone": "789-012-3456",
+      "borrowedBooks": [
+        {
+          "title": "Quantum Mechanics",
+          "id": "SCI-34567"
+        },
+        {
+          "title": "Tech Revolution",
+          "id": "TEC-12345"
+        }
+      ]
+    },
+    {
+      "name": "Nancy Harris",
+      "account": "123456789",
+      "email": "nancy.harris@wonder.ai",
+      "phone": "456-789-0123",
+      "borrowedBooks": []
+    },
+    {
+      "name": "Jesse Hoff",
+      "account": "234567891",
+      "email": "jesse.hoff@abc.com",
+      "phone": "901-234-5678",
+      "borrowedBooks": []
+    },
+    {
+      "name": "Jingler Honda",
+      "account": "890123457",
+      "email": "jingler.honda@smail.com",
+      "phone": "567-890-1234",
+      "borrowedBooks": []
+    },
+    {
+      "name": "Hunter Jack",
+      "account": "345678902",
+      "email": "hunter.jack@smail.com",
+      "phone": "222-432-6789",
+      "borrowedBooks": []
+    },
+    {
+      "name": "Alice Johnson",
+      "account": "123456789",
+      "email": "alice.johnson@abc.com",
+      "phone": "123-456-7890",
+      "borrowedBooks": [
+        {
+          "title": "Science Wonders",
+          "id": "SCI-67890"
+        },
+        {
+          "title": "Amazing Facts",
+          "id": "SCI-45678"
+        }
+      ]
+    },
+    {
+      "name": "Michael Johnson",
+      "account": "345678901",
+      "email": "michael.johnson@smail.com",
+      "phone": "345-678-9012",
+      "borrowedBooks": []
+    },
+    {
+      "name": "Lisa King",
+      "account": "234567890",
+      "email": "lisa.king@abc.com",
+      "phone": "234-567-8901",
+      "borrowedBooks": [
+        {
+          "title": "Tech World",
+          "id": "TEC-34567"
+        }
+      ]
+    },
+    {
+      "name": "User One",
+      "account": "T01234568",
+      "email": "user.one@smail.com",
+      "phone": "678-901-2345",
+      "borrowedBooks": [
+        {
+          "title": "World of Art",
+          "id": "ART-23456"
+        }
+      ]
+    },
+    {
+      "name": "Mina Park",
+      "account": "567890124",
+      "email": "mina.park@wonder.ai",
+      "phone": "890-123-4567",
+      "borrowedBooks": [
+        {
+          "title": "Historical Figures",
+          "id": "HIS-34567"
+        }
+      ]
+    },
+    {
+      "name": "Karen Robinson",
+      "account": "789012345",
+      "email": "karen.robinson@abc.com",
+      "phone": "123-456-7890",
+      "borrowedBooks": [
+        {
+          "title": "Mystery Tales",
+          "id": "FIC-67890"
+        },
+        {
+          "title": "Inspiring Biographies",
+          "id": "BIO-12345"
+        }
+      ]
+    },
+    {
+      "name": "John Schnider",
+      "account": "345678912",
+      "email": "john.schnider@smail.com",
+      "phone": "234-121-6789",
+      "borrowedBooks": [    {
+        "title": "Advanced Programming",
+        "id": "TEC-78910"
+      }]
+    },
+    {
+      "name": "Patricia Scott",
+      "account": "456789012",
+      "email": "patricia.scott@wonder.ai",
+      "phone": "567-890-1234",
+      "borrowedBooks": []
+    },
+    {
+      "name": "Clarkson Shuren",
+      "account": "567890124",
+      "email": "clarkson.shuren@abc.com",
+      "phone": "234-567-8901",
+      "borrowedBooks": []
+    },
+    {
+      "name": "Adam Smith",
+      "account": "678901235",
+      "email": "adam.smith@wonder.ai",
+      "phone": "012-345-6789",
+      "borrowedBooks": [
+        {
+          "title": "Classic Literature",
+          "id": "FIC-67891"
+        }
+      ]
+    },
+    {
+      "name": "David Taylor",
+      "account": "987654321",
+      "email": "david.taylor@smail.com",
+      "phone": "456-789-0123",
+      "borrowedBooks": [
+        {
+          "title": "Modern Art",
+          "id": "ART-34567"
+        }
+      ]
+    },
+    {
+      "name": "Emily Thompson",
+      "account": "567890123",
+      "email": "emily.thompson@smail.com",
+      "phone": "678-901-2345",
+      "borrowedBooks": [
+        {
+          "title": "Daily News",
+          "id": "MAG-67812"
+        },
+        {
+          "title": "Engaging Science",
+          "id": "SCI-78901"
+        }
+      ]
+    },
+    {
+      "name": "Forn Tuwel",
+      "account": "789012346",
+      "email": "forn.tuwel@wonder.ai",
+      "phone": "456-789-0123",
+      "borrowedBooks": []
+    },
+    {
+      "name": "Steven White",
+      "account": "678901234",
+      "email": "steven.white@abc.com",
+      "phone": "678-901-2345",
+      "borrowedBooks": []
+    },
+    {
+      "name": "Jennifer Wilson",
+      "account": "890123456",
+      "email": "jennifer.wilson@smail.com",
+      "phone": "901-234-5678",
+      "borrowedBooks": []
+    },
+    {
+      "name": "Clark Winter",
+      "account": "456789012",
+      "email": "clark.winter@wonder.ai",
+      "phone": "123-221-7890",
+      "borrowedBooks": [
+        {
+          "title": "Mathematics Simplified",
+          "id": "EDU-78901"
+        }
+      ]
+    },
+    {
+      "name": "Brian Wright",
+      "account": "345678901",
+      "email": "brian.wright@smail.com",
+      "phone": "234-567-8901",
+      "borrowedBooks": [
+        {
+          "title": "Incredible Stories",
+          "id": "FIC-45678"
+        },
+        {
+          "title": "Kid's Fun",
+          "id": "KID-45678"
+        }
+      ]
+    },
+    {
+      "name": "Lloris Yamamochi",
+      "account": "678901235",
+      "email": "lloris.yamamochi@wonder.ai",
+      "phone": "345-678-9012",
+      "borrowedBooks": []
+    },
+    {
+      "name": "Gilbert Yuri",
+      "account": "T12345679",
+      "email": "gilbert.yuri@smail.com",
+      "phone": "789-012-3456",
+      "borrowedBooks": [
+        {
+          "title": "Digital Art",
+          "id": "ART-56789"
+        }
+      ]
+    }
+  ]
+}

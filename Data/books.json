@@ -1,0 +1,404 @@
+{
+  "books": [
+    {
+      "title": "Advanced Programming",
+      "category": "Technology",
+      "id": "TEC-78910",
+      "author": "Nguyen Alex",
+      "availability": "B",
+      "borrowing_date": "2024-09-01",
+      "due_date": "2024-09-15",
+      "borrowers_account": "345678912"
+    },
+    {
+      "title": "Daily News",
+      "category": "Magazine",
+      "id": "MAG-67812",
+      "author": "Brown Alice",
+      "availability": "Bw",
+      "borrowing_date": "2024-08-20",
+      "due_date": "2024-09-03",
+      "borrowers_account": "567890123"
+    },
+    {
+      "title": "Science Wonders",
+      "category": "Science",
+      "id": "SCI-67890",
+      "author": "Smith Alice",
+      "availability": "B",
+      "borrowing_date": "2024-08-01",
+      "due_date": "2024-08-15",
+      "borrowers_account": "123456789"
+    },
+    {
+      "title": "History of Time",
+      "category": "History",
+      "id": "HIS-67890",
+      "author": "Martinez Ana",
+      "availability": "A",
+      "borrowing_date": "",
+      "due_date": "",
+      "borrowers_account": ""
+    },
+    {
+      "title": "Programming Basics",
+      "category": "Technology",
+      "id": "TEC-56789",
+      "author": "Davis Brian",
+      "availability": "A",
+      "borrowing_date": "",
+      "due_date": "",
+      "borrowers_account": ""
+    },
+    {
+      "title": "Advanced Data Structure Explorer",
+      "category": "Technology",
+      "id": "TEC-12434",
+      "author": "Davis Brian",
+      "availability": "A",
+      "borrowing_date": "",
+      "due_date": "",
+      "borrowers_account": ""
+    },
+    {
+      "title": "Incredible Stories",
+      "category": "Fiction",
+      "id": "FIC-45678",
+      "author": "Wright Brian",
+      "availability": "B",
+      "borrowing_date": "2024-08-03",
+      "due_date": "2024-08-17",
+      "borrowers_account": "345678901"
+    },
+    {
+      "title": "A Brief History",
+      "category": "Science",
+      "id": "SCI-23456",
+      "author": "Brown Charlie",
+      "availability": "A",
+      "borrowing_date": "",
+      "due_date": "",
+      "borrowers_account": ""
+    },
+    {
+      "title": "Tech Trends",
+      "category": "Technology",
+      "id": "TEC-67890",
+      "author": "Adams Christopher",
+      "availability": "Bw",
+      "borrowing_date": "2024-08-12",
+      "due_date": "2024-08-26",
+      "borrowers_account": "012345678"
+    },
+    {
+      "title": "Modern Art",
+      "category": "Arts",
+      "id": "ART-34567",
+      "author": "Taylor David",
+      "availability": "Bw",
+      "borrowing_date": "2024-08-05",
+      "due_date": "2024-08-19",
+      "borrowers_account": "987654321"
+    },
+    {
+      "title": "Future Innovations",
+      "category": "Technology",
+      "id": "TEC-23456",
+      "author": "Green Emma",
+      "availability": "Bw",
+      "borrowing_date": "2024-08-20",
+      "due_date": "2024-09-03",
+      "borrowers_account": "890123456"
+    },
+    {
+      "title": "Engaging Science",
+      "category": "Science",
+      "id": "SCI-78901",
+      "author": "Thompson Emily",
+      "availability": "Bw",
+      "borrowing_date": "2024-08-12",
+      "due_date": "2024-08-26",
+      "borrowers_account": "567890123"
+    },
+    {
+      "title": "Tech Innovations",
+      "category": "Technology",
+      "id": "TEC-78901",
+      "author": "Wilson Emma",
+      "availability": "A",
+      "borrowing_date": "",
+      "due_date": "",
+      "borrowers_account": ""
+    },
+    {
+      "title": "Quantum Mechanics",
+      "category": "Science",
+      "id": "SCI-34567",
+      "author": "Harris George",
+      "availability": "B",
+      "borrowing_date": "2024-08-10",
+      "due_date": "2024-08-24",
+      "borrowers_account": "678901234"
+    },
+    {
+      "title": "Economic Theories",
+      "category": "Education",
+      "id": "EDU-67890",
+      "author": "Green Helen",
+      "availability": "B",
+      "borrowing_date": "2024-07-30",
+      "due_date": "2024-08-13",
+      "borrowers_account": "901234567"
+    },
+    {
+      "title": "The Last Frontier",
+      "category": "Science",
+      "id": "SCI-12346",
+      "author": "Taylor James",
+      "availability": "A",
+      "borrowing_date": "",
+      "due_date": "",
+      "borrowers_account": ""
+    },
+    {
+      "title": "Digital Art",
+      "category": "Arts",
+      "id": "ART-56789",
+      "author": "Walker James",
+      "availability": "A",
+      "borrowing_date": "2024-09-23",
+      "due_date": "2024-09-30",
+      "borrowers_account": "T12345679"
+    },
+    {
+      "title": "Great Biographies",
+      "category": "Biography",
+      "id": "BIO-67890",
+      "author": "Wilson Jennifer",
+      "availability": "Bw",
+      "borrowing_date": "2024-08-01",
+      "due_date": "2024-08-15",
+      "borrowers_account": "890123456"
+    },
+    {
+      "title": "The Great Adventure",
+      "category": "Fiction",
+      "id": "FIC-12345",
+      "author": "Doe John",
+      "availability": "A",
+      "borrowing_date": "",
+      "due_date": "",
+      "borrowers_account": ""
+    },
+    {
+      "title": "Classic Literature",
+      "category": "Fiction",
+      "id": "FIC-67891",
+      "author": "Soo Kang",
+      "availability": "B",
+      "borrowing_date": "2024-08-25",
+      "due_date": "2024-09-08",
+      "borrowers_account": "678901235"
+    },
+    {
+      "title": "Mystery Tales",
+      "category": "Fiction",
+      "id": "FIC-67890",
+      "author": "Robinson Karen",
+      "availability": "Bw",
+      "borrowing_date": "2024-08-15",
+      "due_date": "2024-08-29",
+      "borrowers_account": "789012345"
+    },
+    {
+      "title": "Creative Arts",
+      "category": "Arts",
+      "id": "ART-45678",
+      "author": "Lewis Kevin",
+      "availability": "A",
+      "borrowing_date": "",
+      "due_date": "",
+      "borrowers_account": ""
+    },
+    {
+      "title": "World of Art",
+      "category": "Arts",
+      "id": "ART-23456",
+      "author": "Evans Laura",
+      "availability": "A",
+      "borrowing_date": "2024-09-21",
+      "due_date": "2024-09-28",
+      "borrowers_account": "T01234568"
+    },
+    {
+      "title": "Historical Figures",
+      "category": "History",
+      "id": "HIS-34567",
+      "author": "Min Lee",
+      "availability": "Bw",
+      "borrowing_date": "2024-08-22",
+      "due_date": "2024-09-05",
+      "borrowers_account": "567890124"
+    },
+    {
+      "title": "Tech World",
+      "category": "Technology",
+      "id": "TEC-34567",
+      "author": "King Lisa",
+      "availability": "B",
+      "borrowing_date": "2024-08-09",
+      "due_date": "2024-08-23",
+      "borrowers_account": "234567890"
+    },
+    {
+      "title": "Inspiring Biographies",
+      "category": "Biography",
+      "id": "BIO-12345",
+      "author": "Taylor Lisa",
+      "availability": "B",
+      "borrowing_date": "2024-08-04",
+      "due_date": "2024-08-18",
+      "borrowers_account": "789012345"
+    },
+    {
+      "title": "Adventures in Learning",
+      "category": "Education",
+      "id": "EDU-34567",
+      "author": "Brown Michael",
+      "availability": "A",
+      "borrowing_date": "",
+      "due_date": "",
+      "borrowers_account": ""
+    },
+    {
+      "title": "Kid's Fun",
+      "category": "Kid",
+      "id": "KID-45678",
+      "author": "Johnson Michael",
+      "availability": "B",
+      "borrowing_date": "2024-07-10",
+      "due_date": "2024-07-24",
+      "borrowers_account": "345678901"
+    },
+    {
+      "title": "Amazing Facts",
+      "category": "Science",
+      "id": "SCI-45678",
+      "author": "Harris Nancy",
+      "availability": "B",
+      "borrowing_date": "2024-08-18",
+      "due_date": "2024-09-01",
+      "borrowers_account": "123456789"
+    },
+    {
+      "title": "Creative Science",
+      "category": "Science",
+      "id": "SCI-67891",
+      "author": "Harris Nancy",
+      "availability": "A",
+      "borrowing_date": "",
+      "due_date": "",
+      "borrowers_account": ""
+    },
+    {
+      "title": "Introduction to AI",
+      "category": "Technology",
+      "id": "TEC-45678",
+      "author": "Miller Nancy",
+      "availability": "A",
+      "borrowing_date": "",
+      "due_date": "",
+      "borrowers_account": ""
+    },
+    {
+      "title": "Kid’s Adventures",
+      "category": "Kid",
+      "id": "KID-78901",
+      "author": "Walker Nancy",
+      "availability": "A",
+      "borrowing_date": "",
+      "due_date": "",
+      "borrowers_account": ""
+    },
+    {
+      "title": "Famous Paintings",
+      "category": "Arts",
+      "id": "ART-67890",
+      "author": "Roberts Olivia",
+      "availability": "A",
+      "borrowing_date": "",
+      "due_date": "",
+      "borrowers_account": ""
+    },
+    {
+      "title": "Mathematics Simplified",
+      "category": "Education",
+      "id": "EDU-78901",
+      "author": "Scott Patricia",
+      "availability": "Bw",
+      "borrowing_date": "2024-08-07",
+      "due_date": "2024-08-21",
+      "borrowers_account": "456789012"
+    },
+    {
+      "title": "Exploring Fiction",
+      "category": "Fiction",
+      "id": "FIC-78901",
+      "author": "Young Rachel",
+      "availability": "A",
+      "borrowing_date": "",
+      "due_date": "",
+      "borrowers_account": ""
+    },
+    {
+      "title": "Learning Python",
+      "category": "Education",
+      "id": "EDU-78912",
+      "author": "Clark Robert",
+      "availability": "A",
+      "borrowing_date": "",
+      "due_date": "",
+      "borrowers_account": ""
+    },
+    {
+      "title": "Biography of Success",
+      "category": "Biography",
+      "id": "BIO-56789",
+      "author": "Lee Sara",
+      "availability": "A",
+      "borrowing_date": "",
+      "due_date": "",
+      "borrowers_account": ""
+    },
+    {
+      "title": "The Modern Era",
+      "category": "History",
+      "id": "HIS-56789",
+      "author": "Young Sophia",
+      "availability": "A",
+      "borrowing_date": "",
+      "due_date": "",
+      "borrowers_account": ""
+    },
+    {
+      "title": "Tech Revolution",
+      "category": "Technology",
+      "id": "TEC-12345",
+      "author": "White Steven",
+      "availability": "B",
+      "borrowing_date": "2024-08-16",
+      "due_date": "2024-08-30",
+      "borrowers_account": "678901234"
+    },
+    {
+      "title": "The New Frontier",
+      "category": "Science",
+      "id": "SCI-56789",
+      "author": "Kim Susan",
+      "availability": "A",
+      "borrowing_date": "",
+      "due_date": "",
+      "borrowers_account": ""
+    }
+  ]
+}
